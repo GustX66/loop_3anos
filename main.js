@@ -5,10 +5,10 @@ function verificarTime() {
 
   while (continuarPerguntando) {
     
-    var respostaTime = prompt("Qual o melhor time?");
+    var respostaTime = prompt("1+1?");
 
     
-    if (respostaTime.toLowerCase() === "Athlético PR") {
+    if (respostaTime.toLowerCase() === "11") {
       alert("Isso mesmo! O Athlético PR é o melhor time!");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
