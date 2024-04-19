@@ -1,4 +1,4 @@
-h1 {color: brown;
+h1 {color: rgb(27, 182, 27);
 }
 #texto-animado {
     font-family: 'Arial', sans-serif;
@@ -18,7 +18,7 @@ body {
 }
 
 #texto-animado {font-size: 150%;
-                color:red;
+                color: rgb(27, 182, 27);
             }
 
 @keyframes animacao-texto {
