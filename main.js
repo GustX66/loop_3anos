@@ -9,7 +9,7 @@ function verificarTime() {
 
     
     if (respostaTime.toLowerCase() === "11") {
-      alert("Isso mesmo! O Athlético PR é o melhor time!");
+      alert("Meu Deus... Tá, pode ir.");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
       alert("Não é isso! Tente novamente.");
