@@ -7,7 +7,7 @@
     <img src="turmadt.png" alt="Logo" >
   </a>
 
-<h3 align="center">Projeto de Vida - Turma DT</h3>
+<h3 align="center">Projeto de Vi - Turma DT</h3>
 
   <p align="center">
     Projeto construído no Grupo de Formadores Trilha de Programação II | 1ª Jornada de 2024
